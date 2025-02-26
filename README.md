@@ -1,5 +1,9 @@
 # 👋 Hi, I'm **Muhammad Ahmad Raza**  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Gif" />
+</p>
+
 🚀 **Unity Game Developer | AR/VR Enthusiast | Software Engineer**  
 
 🎮 Passionate about **Game Development & Immersive AR/VR Experiences**!  
@@ -8,7 +12,9 @@
 ---
 
 ## 🏆 **About Me**  
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>  
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Game Development Gif" />
+</p>
 
 ✔ **4+ Years of Experience** in Unity Game Development  
 ✔ Expertise in **AR/VR Technologies** (XR SDKs, AR Foundation, VR Interactions)  
@@ -26,11 +32,13 @@
 ---
 
 ## 🛠 **Tech Stack & Tools**  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</p>
 
 📌 **Game Engines** – Unity 3D, Unreal Engine (Basic)  
 📌 **AR/VR SDKs** – AR Foundation, ARKit, ARCore, XR Interaction Toolkit  
@@ -40,6 +48,10 @@
 ---
 
 ## 🚀 **Projects**  
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Game Project" />
+</p>
+
 🔹 🎨 **AR-based Drawing Application** *(Educational AR for students)*  
 🔹 🎥 **VR Video Player Application** *(Immersive VR media player)*  
 🔹 ⚔ **Falcon Strike** *(High-action mobile game)*  
@@ -60,4 +72,4 @@
 🐦 **Portfolio**: [@ahmadraza_dev](https://portfolio-ahmadraza.netlify.app/)  
 🚀 **Twitter**: [@ahmadraza_dev](https://twitter.com/ahmadraza_dev)  
 
-💡 **_"Building the future of gaming & immersive experiences!"_** 🎮🔥  
+💡 **_"Building the future of gaming & immersive experiences!"_** 🎮🔥 
