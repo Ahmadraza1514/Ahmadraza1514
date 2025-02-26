@@ -72,4 +72,11 @@
 🐦 **Portfolio**: [@ahmadraza_dev](https://portfolio-ahmadraza.netlify.app/)  
 🚀 **Twitter**: [@ahmadraza_dev](https://twitter.com/ahmadraza_dev)  
 
-💡 **_"Building the future of gaming & immersive experiences!"_** 🎮🔥 
+💡 **_"Building the future of gaming & immersive experiences!"_** 🎮🔥  
+
+---
+
+### 🎯 **How to Add This to Your GitHub Profile?**  
+1️⃣ Create a **new repository** with the same name as your GitHub username.  
+2️⃣ Add a **README.md** file and paste this code.  
+3️⃣ Push the repository to GitHub, and your profile will be updated! 🚀  
