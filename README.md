@@ -23,13 +23,21 @@
 
 ---
 
+## 📚 Courses  
+📌 **Introduction to Augmented Reality and ARCore** – *by Google*  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="100">  
+
+📌 **Developing AR/VR/MR/XR Apps with WebXR, Unity & Unreal** – *by University of Michigan*  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/University_of_Michigan_logo.svg" width="100">  
+
+---
+
 ## 🚀 Current Projects  
 🎨 **AR-Based Drawing Application** for Students  
 🎥 **VR Video Player Application**  
 🦅 **Falcon Strike**  
 
 ---
-
 
 ## 🎯 Let's Connect!  
 📧 **Email**: mahmedraza503@gmail.com  
