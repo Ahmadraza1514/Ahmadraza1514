@@ -28,7 +28,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="100">  
 
 📌 **Developing AR/VR/MR/XR Apps with WebXR, Unity & Unreal** – *by University of Michigan*  
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Michigan_Wolverines_logo.svg/800px-Michigan_Wolverines_logo.svg.png" width="100">  
+<img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png" width="100">
+
 
 ---
 
