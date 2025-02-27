@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech & Tools  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,blender,github,git,photoshop" alt="Tech Stack" />  
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,github,git,photoshop" alt="Tech Stack" />  
 </p>  
 
 🎮 **Game Engines**: Unity 3D, Unreal Engine (Basic)  
@@ -24,10 +24,10 @@
 ---
 
 ## 📚 Courses  
-📌 **Introduction to Augmented Reality and ARCore** – *by Google*  
+📌 **Introduction to Augmented Reality and ARCore** – *by Google*  (Coursera)
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="100">  
 
-📌 **Developing AR/VR/MR/XR Apps with WebXR, Unity & Unreal** – *by University of Michigan*  
+📌 **Developing AR/VR/MR/XR Apps with WebXR, Unity & Unreal** – *by University of Michigan* (Coursera)
 <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png" width="100">
 
 
